@@ -376,7 +376,7 @@ footer .redes img {
     header {
         flex-direction: column;
         justify-content: center;
-        height: 40vh;
+        height: 50vh;
     }
 
     nav {
@@ -536,3 +536,4 @@ footer .redes img {
     }
 
 }
+
